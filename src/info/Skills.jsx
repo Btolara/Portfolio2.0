@@ -46,6 +46,12 @@ const Skills = [
     title: "Javascript",
     value: "10%",
     color: "#e7cb00"
+  },
+  {
+    id: 9,
+    title: "React",
+    value: "20%",
+    color: "#004B75"
   }
 ];
 

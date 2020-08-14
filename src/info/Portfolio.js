@@ -1,7 +1,7 @@
 const CardDatas = [
   {
     id: 1,
-    title: "branding",
+    title: "GH Asociate - Lawyers",
     subtitle: "brand identity",
     text: "Brand system develop into a lawyers brand in Colombia.",
     image:
@@ -9,17 +9,19 @@ const CardDatas = [
   },
   {
     id: 2,
-    title: "Travel",
-    subtitle: "Nomad Lifestyle",
-    text: "Learn our tips and tricks on living a nomadic lifestyle",
-    image: "https://source.unsplash.com/user/_vickyreyes/600x400"
+    title: "Willion Beer",
+    subtitle: "Brand Identity",
+    text: "Willion - Handcrafted beer Branding",
+    image:
+      "https://mir-s3-cdn-cf.behance.net/project_modules/fs/17a3a178005177.5c9a127e0c5fa.jpg"
   },
   {
     id: 3,
-    title: "Travel",
-    subtitle: "Nomad Lifestyle",
-    text: "Learn our tips and tricks on living a nomadic lifestyle",
-    image: "https://source.unsplash.com/user/_vickyreyes/600x400"
+    title: "Lilla Nygatans",
+    subtitle: "Brand Identity",
+    text: "Personal graphic identity",
+    image:
+      "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e2f09277941145.5c97acf8022af.jpg"
   }
 ];
 

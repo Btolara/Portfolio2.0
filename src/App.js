@@ -43,13 +43,13 @@ const App = () => {
           <ResumeItem id="aboutMe" title="about me" subtitle="who am i?">
             <section className="text">
               <p>
-                I'm currently a Graphic Designer with studies of Art Direction.
-                Over the past twelve years, I’ve been a Graphic Designer at
-                various early-stage startups, co-founded two companies, and
-                earned my Master’s in Educational Technology and Applied
-                Learning Science from Carnegie Mellon University’s HCII. I'm
-                also into oil painting and weight lifting More examples of my
-                work are available upon request.
+                With studies in Graphic Design in Colombia and Integral
+                Creativity in Argentina, including more than 10-year experience
+                in Graphic & Art Design in Colombia, Argentina, and Sweden, I
+                enjoy creating visual concepts and developing strategies that
+                place the user as the center of the product development process,
+                boosting a strong relationship between the user and the brand
+                experience.
               </p>
             </section>
           </ResumeItem>
@@ -92,13 +92,7 @@ const App = () => {
             title="my work"
             subtitle="this is my portfolio"
           >
-            <section className="text">
-              {" "}
-              <p>
-                Hi I'm Carlos Lara On her way she met a copy. The copy warned
-                the Little Blind Text
-              </p>
-            </section>
+            <section className="text"> </section>
 
             {Portfolio.map((card) => (
               <PortCard key={card.id} {...card} />
